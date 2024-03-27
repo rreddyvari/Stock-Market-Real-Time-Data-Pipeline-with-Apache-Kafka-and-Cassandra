@@ -15,21 +15,6 @@ This project focuses on retrieving real-time stock market data using Python and 
 
 ## Environment Setup
 
-### Hardware Used
-
-Local Machine:
-
-```bash
-  Ubuntu 22.04.1 LTS
-  4 vCore, 4 GiB Memory, 32 GiB Storage
-```
-
-AWS EC2:
-
-```bash
-  Amazon Linux 2 Kernel 5.10
-  t2 Family, 1 vCore, 1 GiB Memory
-```
 
 ### Prerequisites
 
