@@ -60,17 +60,6 @@ Follow these steps to execute the project:
 4. Start the Python consumer script to consume and store data in CassandraDB.
 5. Use SQL queries to retrieve the data stored in CassandraDB.
 
-## Error Handling and Troubleshooting
-
-Here are some common errors and troubleshooting tips for this project:
-
-- Apache Kafka Connection Error: If you encounter an error while connecting to Apache Kafka, ensure that the EC2 instance is running and that the Apache Kafka service is up and running. Also, check the security group settings to ensure that the required ports are open.
-- Cassandra Connection Error: If you encounter an error while connecting to CassandraDB, ensure that the Cassandra service is running on the local server. Also, check the firewall settings to ensure that the required ports are open.
-- Data Retrieval Error: If you encounter an error while retrieving stock market data, ensure that the data retrieval script is running correctly.
-- Data Storage Error: If you encounter an error while storing the data in CassandraDB, ensure that the required tables have been created and that the data is being stored in the correct format.
-- Data Query Error: If you encounter an error while querying the data stored in CassandraDB, ensure that the SQL query is correct and that the required tables exist.
-
-For more information, refer to the log files or contact the author at contact.kishlayjeet@gmail.com.
 
 ## Future Enhancements
 
